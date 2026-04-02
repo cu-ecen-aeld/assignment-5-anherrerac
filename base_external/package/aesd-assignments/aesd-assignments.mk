@@ -3,7 +3,7 @@
 # AESD-ASSIGNMENTS
 #
 ##############################################################
-AESD_ASSIGNMENTS_VERSION = 87dbe103a8e2fc7a3770ec03f074140a8799ff0a
+AESD_ASSIGNMENTS_VERSION = 3b38cc080f28bf3172992803f77ec27e4f0b00ec
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-anherrerac.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
